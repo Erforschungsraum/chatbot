@@ -23,3 +23,9 @@ __pycache__/
 
 #Ignore ./send_data
 ./send_data/*
+
+#Ignore ./old_versions
+./old_versions/*
+
+#Ignore .code-workspace
+*.code-workspace
